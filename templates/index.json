@@ -16,7 +16,11 @@
           "name": "t:names.heading",
           "settings": {
 <<<<<<< HEAD
+<<<<<<< HEAD
             "text": "<p>Browse our latest products (TEST) (TEST)</p>",
+=======
+            "text": "<p>Browse our latest products test</p>",
+>>>>>>> main
 =======
             "text": "<p>Browse our latest products test</p>",
 >>>>>>> main
