@@ -15,7 +15,15 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Browse our latest products  TEST</p>",
+<<<<<<< HEAD
+<<<<<<< HEAD
+            "text": "<p>Browse our latest products (TEST) (TEST)</p>",
+=======
+            "text": "<p>Browse our latest products test</p>",
+>>>>>>> main
+=======
+            "text": "<p>Browse our latest products test</p>",
+>>>>>>> main
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
