@@ -1,4 +1,12 @@
 development:
-  password: shptka_d4d8d43cbda6f67d8050cc3c4e624c02
-  theme_id: 151521525912
-  store: test1-239283829347123859138727.myshopify.com
+  store: https://test1-239283829347123859138727.myshopify.com/
+  password: shptka_1396418b4b48c0c11e8643d9cf6ea573
+  theme_id: "151521525912"
+  ignore_files:
+    - config/settings_data.json
+    - "*.log"
+
+production:
+  store: https://test1-239283829347123859138727.myshopify.com/
+  password: shptka_1396418b4b48c0c11e8643d9cf6ea573
+  theme_id: "151521525912"
