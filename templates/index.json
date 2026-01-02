@@ -1,12 +1,36 @@
 {
-  "name": "Home page",
   "sections": {
+    "header": {
+      "type": "header",
+      "settings": {}
+    },
     "hero": {
       "type": "hero",
+      "settings": {}
+    },
+    "usp": {
+      "type": "usp",
+      "settings": {}
+    },
+    "categories": {
+      "type": "categories",
+      "settings": {}
+    },
+    "featured-products": {
+      "type": "featured-products",
+      "settings": {}
+    },
+    "footer": {
+      "type": "footer",
       "settings": {}
     }
   },
   "order": [
-    "hero"
+    "header",
+    "hero",
+    "usp",
+    "categories",
+    "featured-products",
+    "footer"
   ]
 }
